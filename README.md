@@ -1,7 +1,7 @@
-# algorithms
+# Algorithms
 sorting algorithm and their applications (cases from Princeton Advanced Algorithm course)
 
-# discription
+# Discription
 
 1. elementary sorting algorithns
 2. randomnized queue implementation
