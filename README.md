@@ -3,8 +3,8 @@ sorting algorithm and their applications (cases from Princeton Advanced Algorith
 
 # Discription
 
-1. elementary sorting algorithns
+1. elementary sorting algorithms
 2. randomnized queue implementation
 3. percolation detection algorithm
-4. colinear points detection algorithm
+4. collinear points detection algorithm
 5. red-black tree algorithm
